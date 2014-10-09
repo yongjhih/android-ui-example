@@ -1,0 +1,18 @@
+.project
+.settings/
+bin/
+gen/
+build.xml
+out/
+.idea/
+
+# git
+*.orig
+
+# vim
+*.sw*
+*~
+
+build/
+.gradle/
+
